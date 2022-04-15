@@ -5,3 +5,5 @@ a Flappy Bird game clone written in Solar2d (Lua game engine)
 Controls:
 
 Space/Tap on the platform - Jump
+
+Implementation: http://flappybird.toadres.pl/
